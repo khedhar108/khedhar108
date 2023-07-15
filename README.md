@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love to work in farm in morning to get the power of sun**
 
-<h3 align="left">Connect with me:</h3>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khedhar108&show_icons=true&theme=radical)
 <p align="left">
 <a href="https://linkedin.com/in/pradeepkhedhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepkhedhar" height="30" width="40" /></a>
 </p>
