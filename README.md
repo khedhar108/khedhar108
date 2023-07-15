@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Gsap, TypeScript, Three.js, PWA, Python**
 
-- 💬 Ask me about **react, JavaScript,Express,Node, MongoDB**
+- 💬 Ask me about **React, JavaScript,Express,Node, MongoDB**
 
 - 📫 How to reach me **Khedhar.pradeep@gmail.com**
 
@@ -14,8 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khedhar108&show_icons=true&theme=radical)
 <p align="left">
-<a href="https://linkedin.com/in/pradeepkhedhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pradeepkhedhar" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="38" /></a>  
@@ -36,5 +35,5 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khedhar108&label=Profile%20views&color=0e75b6&style=flat" alt="khedhar" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="khedhar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khedhar&" alt="khedhar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khedhar108&layout=compact" alt="khedhar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khedhar108&" alt="khedhar" /></p>
