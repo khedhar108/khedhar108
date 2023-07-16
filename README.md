@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I love to work in farm in morning to get the power of sun**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khedhar108&show_icons=true&theme=radical)
-<p align="left">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
